@@ -1,0 +1,3 @@
+[submodule "ds-framer"]
+	path = ds-framer
+	url = git@github.com:Gr8G1/ds-framer.git
