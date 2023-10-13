@@ -2,3 +2,7 @@
 	path = ds-framer
 	url = git@github.com:Gr8G1/ds-framer.git
 	branch = main
+[submodule "ds-storybook"]
+	path = ds-storybook
+	url = git@github.com:Gr8G1/ds-storybook.git
+	branch = main
